@@ -155,17 +155,10 @@ I don't hand off. I don't subcontract. I go from brief → Figma → code → de
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sumankulhari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumankulhari&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="40%" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=sumankulhari&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e" width="55%" />
-
 <br/><br/>
-
-[![Suman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumankulhari&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
 
 ---
