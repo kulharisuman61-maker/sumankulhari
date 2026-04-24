@@ -9,7 +9,6 @@
 [![Portfolio](https://img.shields.io/badge/suman.one-%23000000?style=for-the-badge&logo=About.me&logoColor=white)](https://suman.one)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-kulhari-43582a234/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kulharisuman61@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%2300B140?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 
 </div>
 
@@ -181,14 +180,10 @@ I don't hand off. I don't subcontract. I go from brief → Figma → code → de
 
 ## 📬 Let's Build Something Great
 
-**Available immediately · Full-time · Contract · Hybrid · Remote**
-
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐%20suman.one-View%20Portfolio-a78bfa?style=for-the-badge)](https://suman.one)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-kulhari-43582a234/)
-[![Email](https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kulharisuman61@gmail.com)
-
 <br/>
 
 > *"I don't just design the experience or build the product — I own the outcome."*
